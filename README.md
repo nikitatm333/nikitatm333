@@ -6,7 +6,7 @@
 
 ### Programming Languages:
 - Python
-- C/C++ (Arduino)
+- C/C++ for microcontrollers
 
 ### Frameworks & Libraries:
 - **Web Development**: `Flask`, `HTML/CSS`
