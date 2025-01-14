@@ -11,7 +11,7 @@
 ### Frameworks & Libraries:
 - **Web Development**: `Flask`, `HTML/CSS`
 - **Bot Development**: `aiogram`
-- **Computer Vision: `OpenCV`, `mediapipe`
+- **Computer Vision**: `OpenCV`, `mediapipe`
 
 
 
