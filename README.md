@@ -8,11 +8,12 @@
 - C/C++ (Arduino)
 
 ### Frameworks & Libraries:
-- **AI & Machine Learning**: `aiogram`, `Flask`
-- **Computer Vision**: `OpenCV`, `mediapipe`
+- **Web Development**: `Flask`, `HTML/CSS`
+- **Bot Development**: `aiogram`
 
-### Web Development:
-- HTML/CSS
+### Computer Vision:
+- `OpenCV`, `mediapipe`
+
 
 
 
