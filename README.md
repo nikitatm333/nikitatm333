@@ -5,8 +5,8 @@
 ### 🛠Skills
 
 ### Programming Languages:
-- Python
-- C/C++ for microcontrollers
+- Python 
+- C/C++ 
 
 ### Frameworks & Libraries:
 - **Web Development**: `Flask`, `HTML/CSS`
