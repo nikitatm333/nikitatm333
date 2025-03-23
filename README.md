@@ -4,7 +4,7 @@
   .--~~~~~~~~~~~~~------.<br>
  /--===============------\<br>
  | |⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺⎺|     |<br>
- | |   <img src="https://example.com/animated_emoticon.gif" alt=">_<" style="vertical-align: middle;" />   |     |<br>
+ | |   <img src="[https://example.com/animated_emoticon.gif](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif)" alt=">_<" style="vertical-align: middle;" />   |     |<br>
  | |               |     |<br>
  | |_______________|     |<br>
  |                   ::::|<br>
